@@ -1,0 +1,8 @@
+C:\Users\Awire\source\repos\UsrOnline\UsrOnline\bin\Debug\UsrOnline.exe.config
+C:\Users\Awire\source\repos\UsrOnline\UsrOnline\bin\Debug\UsrOnline.exe
+C:\Users\Awire\source\repos\UsrOnline\UsrOnline\bin\Debug\UsrOnline.pdb
+C:\Users\Awire\source\repos\UsrOnline\UsrOnline\obj\Debug\UsrOnline.csproj.AssemblyReference.cache
+C:\Users\Awire\source\repos\UsrOnline\UsrOnline\obj\Debug\UsrOnline.csproj.SuggestedBindingRedirects.cache
+C:\Users\Awire\source\repos\UsrOnline\UsrOnline\obj\Debug\UsrOnline.csproj.CoreCompileInputs.cache
+C:\Users\Awire\source\repos\UsrOnline\UsrOnline\obj\Debug\UsrOnline.exe
+C:\Users\Awire\source\repos\UsrOnline\UsrOnline\obj\Debug\UsrOnline.pdb
